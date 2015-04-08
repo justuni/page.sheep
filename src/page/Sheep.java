@@ -5,10 +5,7 @@ import was.GameBoard;
 import was.Move;
 
 
-/**
- * An example sheep
- * @author dr
- */
+
 public class Sheep  extends was.SheepPlayer{
     
         int a = 0;  //Move x direction
